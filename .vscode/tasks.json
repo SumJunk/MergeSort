@@ -1,20 +1,4 @@
 {
     "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "build",
-            "type": "shell",
-            "command": "cl",
-            "args": [
-                "/EHsc",
-                "/std:c++17",
-                "mergesort.cpp",
-                "/Fe:mergesort.exe"
-            ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
-        }
-    ]
+
 }
