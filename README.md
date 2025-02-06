@@ -13,7 +13,7 @@ Implements a mergesort algorithm by sorting an array of a given size in order wh
 # Clone the Repository  
 To download and use the project on Centaurus ensure you are on a computing node, run:  
 ```bash
-git clone https://oahth2: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@github.com/SumJunk/MergeSort.git
+git clone https://github.com/SumJunk/MergeSort.git
 cd MergeSort
 git checkout master
 g++ -O3 mergesort.cpp -o mergesort
